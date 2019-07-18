@@ -29,8 +29,7 @@ sudo make install
 ```
  
  
-Other dependencies
---------------
+### Other dependencies
  
 ```sh
 sudo apt-get install python-imaging
@@ -38,6 +37,7 @@ sudo apt-get install python-imaging
 sudo apt-get install python-magic
 
 sudo apt-get install imagemagick
+```
 
 ### Data
 
