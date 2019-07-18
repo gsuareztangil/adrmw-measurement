@@ -1,0 +1,411 @@
+######################
+##	GingerMaster 	##
+######################
+	Method-0: ['Intent:setFlags']
+	Method-1: ['File:exists', 'File:exists', 'File:mkdir']
+	Method-2: ['File:delete', 'File:exists']
+	Method-3: ['ConnectivityManager:getActiveNetworkInfo']
+	Method-4: ['File:exists']
+	Method-5: ['Intent:setFlags']
+	Method-6: ['File:delete']
+	Method-7: ['File:exists', 'File:exists']
+	Method-8: ['File:exists']
+	Method-9: ['File:exists', 'File:exists', 'Intent:setFlags']
+	Method-10: ['File:exists', 'File:exists']
+	Method-11: ['PackageManager:getInstalledPackages']
+	Method-12: ['File:delete', 'File:exists', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'URL:openConnection', 'URLConnection:getInputStream']
+	Method-13: ['Context:getFilesDir', 'Context:getFilesDir', 'File:exists', 'File:mkdir']
+	Method-14: ['File:exists']
+######################
+##	DroidKungFu4 	##
+######################
+	Method-0: ['File:exists']
+	Method-1: ['File:delete', 'File:delete', 'File:exists', 'File:exists', 'File:exists', 'File:exists']
+######################
+##	RogueLemon 	##
+######################
+	Method-0: ['Context:getFilesDir', 'Context:getFilesDir']
+	Method-1: ['Intent:setFlags']
+	Method-2: ['Context:getFilesDir']
+	Method-3: ['HttpURLConnection:connect']
+	Method-4: ['LocationManager:getLastKnownLocation']
+	Method-5: ['HttpURLConnection:connect', 'URL:openConnection']
+	Method-6: ['Context:getFilesDir']
+	Method-7: ['URLConnection:getInputStream']
+	Method-8: ['TelephonyManager:getDeviceId', 'TelephonyManager:getNetworkOperator', 'TelephonyManager:getSubscriberId']
+	Method-9: ['Context:getFilesDir']
+	Method-10: ['SmsManager:sendTextMessage']
+	Method-11: ['Context:getFilesDir']
+	Method-12: ['Context:getFilesDir']
+	Method-13: ['Context:getFilesDir']
+	Method-14: ['SmsManager:sendTextMessage']
+	Method-15: ['File:delete', 'File:exists']
+######################
+##	DroidKungFu1 	##
+######################
+	Method-0: ['Intent:setFlags']
+	Method-1: ['Intent:setFlags']
+	Method-2: ['File:exists', 'File:exists']
+	Method-3: ['File:exists', 'File:exists']
+######################
+##	DroidKungFu2 	##
+######################
+	Method-0: ['File:exists', 'File:exists', 'File:exists', 'File:exists', 'File:exists']
+	Method-1: ['File:exists', 'File:exists']
+	Method-2: ['File:exists']
+	Method-3: ['Intent:setFlags']
+	Method-4: ['File:exists']
+######################
+##	DroidKungFu3 	##
+######################
+	Method-0: ['ConnectivityManager:getActiveNetworkInfo']
+	Method-1: ['File:exists']
+	Method-2: ['HttpURLConnection:connect', 'URL:openConnection', 'URLConnection:getInputStream']
+	Method-3: ['File:exists', 'File:exists']
+	Method-4: ['Intent:addFlags']
+	Method-5: ['Intent:setFlags']
+	Method-6: ['File:exists', 'File:mkdir']
+######################
+##	GPSSMSSpy 	##
+######################
+	Method-0: ['SmsManager:sendTextMessage']
+	Method-1: ['LocationManager:requestLocationUpdate']
+	Method-2: ['SmsManager:sendTextMessage', 'SmsManager:sendTextMessage']
+######################
+##	Bgserv 	##
+######################
+	Method-0: ['SmsManager:sendTextMessage', 'SmsManager:sendTextMessage']
+	Method-1: ['File:exists']
+	Method-2: ['File:delete']
+	Method-3: ['File:exists']
+	Method-4: ['ContentResolver:query']
+	Method-5: ['File:exists']
+	Method-6: ['File:delete', 'File:exists', 'TelephonyManager:getDeviceId']
+	Method-7: ['File:exists', 'File:mkdir']
+	Method-8: ['LocationManager:getLastKnownLocation', 'LocationManager:requestLocationUpdate']
+	Method-9: ['File:delete', 'File:exists']
+	Method-10: ['File:exists', 'File:exists']
+	Method-11: ['ContentResolver:query']
+	Method-12: ['Context:getFilesDir', 'File:exists']
+	Method-13: ['ContentResolver:delete', 'ContentResolver:query']
+	Method-14: ['Intent:addFlags', 'Intent:addFlags', 'Intent:addFlags', 'Intent:addFlags', 'Intent:addFlags', 'Intent:setDataAndType']
+	Method-15: ['File:exists']
+	Method-16: ['File:delete', 'File:exists']
+	Method-17: ['SmsManager:sendTextMessage']
+	Method-18: ['TelephonyManager:getDeviceId']
+	Method-19: ['Context:getFilesDir', 'File:exists', 'File:mkdir']
+	Method-20: ['ConnectivityManager:getActiveNetworkInfo']
+######################
+##	Pjapps 	##
+######################
+	Method-0: ['File:exists']
+	Method-1: ['File:delete', 'File:exists']
+	Method-2: ['HttpURLConnection:connect', 'URL:openConnection']
+	Method-3: ['URL:openConnection', 'URLConnection:getInputStream']
+######################
+##	SndApps 	##
+######################
+	Method-0: ['TelephonyManager:getDeviceId', 'TelephonyManager:getLine1Number', 'TelephonyManager:getNetworkOperator']
+	Method-1: ['TelephonyManager:getDeviceId', 'TelephonyManager:getLine1Number', 'TelephonyManager:getNetworkOperator']
+######################
+##	BaseBridge 	##
+######################
+	Method-0: ['ContentResolver:query', 'ContentResolver:query', 'TelephonyManager:getSubscriberId']
+	Method-1: ['ConnectivityManager:getActiveNetworkInfo']
+	Method-2: ['ContentResolver:query', 'Intent:setFlags']
+	Method-3: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-4: ['ContentResolver:insert']
+######################
+##	KMin 	##
+######################
+	Method-0: ['ContentResolver:query']
+	Method-1: ['SmsManager:sendTextMessage']
+	Method-2: ['ContentResolver:query']
+	Method-3: ['File:exists', 'File:mkdir', 'File:mkdir']
+	Method-4: ['File:exists', 'File:mkdir', 'File:mkdir']
+	Method-5: ['ContentResolver:query']
+	Method-6: ['HttpURLConnection:connect']
+	Method-7: ['ContentResolver:query']
+	Method-8: ['File:exists', 'File:exists', 'File:exists', 'File:mkdir', 'File:mkdir']
+	Method-9: ['ContentResolver:query']
+	Method-10: ['ContentResolver:insert', 'ContentResolver:query']
+	Method-11: ['ContentResolver:query']
+	Method-12: ['TelephonyManager:getDeviceId', 'TelephonyManager:getSubscriberId']
+	Method-13: ['ContentResolver:query']
+	Method-14: ['ContentResolver:query']
+	Method-15: ['Intent:setFlags']
+	Method-16: ['Intent:addFlags']
+	Method-17: ['ConnectivityManager:getActiveNetworkInfo']
+	Method-18: ['Context:getApplicationInfo', 'Context:getApplicationInfo', 'Context:getApplicationInfo']
+	Method-19: ['ConnectivityManager:getActiveNetworkInfo']
+	Method-20: ['ContentResolver:insert']
+	Method-21: ['Intent:setFlags']
+	Method-22: ['ContentResolver:query']
+	Method-23: ['ContentResolver:delete', 'ContentResolver:query']
+	Method-24: ['ContentResolver:query']
+	Method-25: ['Intent:setFlags']
+	Method-26: ['ContentResolver:delete', 'ContentResolver:query']
+	Method-27: ['Intent:addFlags']
+	Method-28: ['URLConnection:getInputStream']
+	Method-29: ['ContentResolver:delete', 'ContentResolver:query']
+	Method-30: ['URL:openConnection']
+	Method-31: ['ContentResolver:delete']
+	Method-32: ['ContentResolver:delete', 'ContentResolver:query']
+	Method-33: ['File:exists', 'File:mkdir']
+	Method-34: ['ContentResolver:delete', 'ContentResolver:delete']
+	Method-35: ['ContentResolver:delete', 'ContentResolver:delete', 'ContentResolver:query']
+	Method-36: ['ContentResolver:delete', 'ContentResolver:query']
+	Method-37: ['File:exists', 'File:exists', 'File:exists', 'File:mkdir', 'File:mkdir']
+	Method-38: ['HttpURLConnection:connect']
+	Method-39: ['ActivityManager:getRunningServices']
+	Method-40: ['ContentResolver:insert', 'ContentResolver:query']
+	Method-41: ['File:exists', 'File:mkdir']
+	Method-42: ['File:delete']
+	Method-43: ['HttpURLConnection:connect']
+	Method-44: ['ContentResolver:query']
+	Method-45: ['ContentResolver:query']
+	Method-46: ['ConnectivityManager:getActiveNetworkInfo']
+	Method-47: ['URL:openConnection']
+	Method-48: ['ContentResolver:insert', 'ContentResolver:query']
+######################
+##	DroidDreamLight 	##
+######################
+	Method-0: ['URLConnection:getInputStream']
+######################
+##	AnserverBot 	##
+######################
+	Method-0: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-1: ['Context:getFilesDir', 'Context:getFilesDir']
+	Method-2: ['TelephonyManager:getDeviceId']
+	Method-3: ['File:delete', 'File:delete', 'File:delete', 'File:delete', 'File:exists', 'File:exists', 'File:exists', 'File:exists', 'File:exists', 'File:exists', 'File:mkdir', 'File:mkdir', 'URL:openConnection', 'URLConnection:getInputStream']
+	Method-4: ['TelephonyManager:getSubscriberId']
+	Method-5: ['File:delete']
+	Method-6: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-7: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-8: ['PackageManager:getInstalledPackages']
+	Method-9: ['TelephonyManager:getSubscriberId']
+######################
+##	zHash 	##
+######################
+	Method-0: ['ContentResolver:query']
+	Method-1: ['File:delete', 'File:exists', 'File:mkdir']
+	Method-2: ['HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'URL:openConnection', 'URL:openConnection', 'URL:openConnection', 'URL:openConnection', 'URLConnection:getInputStream']
+	Method-3: ['ContentResolver:insert']
+	Method-4: ['ConnectivityManager:getActiveNetworkInfo']
+	Method-5: ['File:delete', 'File:mkdir']
+	Method-6: ['ContentResolver:query']
+	Method-7: ['SmsManager:sendTextMessage']
+	Method-8: ['TelephonyManager:getNetworkOperator']
+	Method-9: ['ContentResolver:query']
+	Method-10: ['SmsManager:sendTextMessage']
+	Method-11: ['Context:getFilesDir']
+	Method-12: ['TelephonyManager:getNetworkOperator']
+	Method-13: ['ContentResolver:insert']
+	Method-14: ['Context:getFilesDir', 'Context:getFilesDir', 'File:delete', 'File:exists', 'File:mkdir']
+	Method-15: ['ContentResolver:query']
+	Method-16: ['Context:getFilesDir', 'File:exists', 'File:exists', 'File:exists']
+	Method-17: ['Intent:setFlags']
+	Method-18: ['File:exists', 'File:exists', 'File:exists', 'File:exists', 'File:exists']
+	Method-19: ['TelephonyManager:getSubscriberId']
+	Method-20: ['File:exists']
+	Method-21: ['Context:getFilesDir']
+	Method-22: ['Context:getFilesDir']
+	Method-23: ['TelephonyManager:getDeviceId', 'TelephonyManager:getSubscriberId']
+	Method-24: ['ContentResolver:query']
+	Method-25: ['ConnectivityManager:getActiveNetworkInfo']
+	Method-26: ['ContentResolver:query']
+	Method-27: ['File:delete']
+	Method-28: ['File:delete', 'File:exists']
+	Method-29: ['ConnectivityManager:getActiveNetworkInfo', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'URL:openConnection', 'URL:openConnection', 'URL:openConnection', 'URL:openConnection', 'URLConnection:getInputStream']
+	Method-30: ['File:exists']
+	Method-31: ['Context:getFilesDir', 'File:exists', 'File:exists', 'File:exists']
+	Method-32: ['TelephonyManager:getNetworkOperator']
+	Method-33: ['ContentResolver:query']
+	Method-34: ['ConnectivityManager:getActiveNetworkInfo', 'File:exists', 'File:exists']
+	Method-35: ['File:delete']
+	Method-36: ['File:mkdir']
+	Method-37: ['ContentResolver:query', 'ContentResolver:query']
+	Method-38: ['ContentResolver:query']
+	Method-39: ['File:exists']
+	Method-40: ['Context:getFilesDir', 'File:exists']
+	Method-41: ['File:exists', 'PackageManager:getInstalledPackages']
+	Method-42: ['TelephonyManager:getSubscriberId']
+	Method-43: ['Context:getFilesDir']
+	Method-44: ['File:exists']
+	Method-45: ['ContentResolver:query']
+	Method-46: ['File:exists']
+	Method-47: ['Context:getFilesDir', 'Context:getFilesDir']
+	Method-48: ['Process:killProcess', 'Process:myPid']
+	Method-49: ['ContentResolver:query']
+	Method-50: ['Context:getFilesDir']
+	Method-51: ['Context:getFilesDir', 'File:exists']
+	Method-52: ['ContentResolver:query']
+	Method-53: ['TelephonyManager:getNetworkOperator']
+	Method-54: ['TelephonyManager:getSubscriberId']
+	Method-55: ['Context:getFilesDir', 'File:exists']
+	Method-56: ['TelephonyManager:getNetworkOperator']
+	Method-57: ['File:exists']
+	Method-58: ['ContentResolver:insert']
+	Method-59: ['File:exists']
+######################
+##	YZHC 	##
+######################
+	Method-0: ['ContentResolver:delete']
+	Method-1: ['Intent:setFlags']
+	Method-2: ['ContentResolver:delete']
+	Method-3: ['SmsManager:sendTextMessage']
+	Method-4: ['ContentResolver:delete']
+######################
+##	CruseWin 	##
+######################
+	Method-0: ['TelephonyManager:getDeviceId']
+	Method-1: ['ContentResolver:delete', 'ContentResolver:query']
+	Method-2: ['Intent:setFlags']
+	Method-3: ['Intent:addFlags', 'PackageManager:getInstalledPackages']
+######################
+##	DroidKungFuSapp 	##
+######################
+	Method-0: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-1: ['ConnectivityManager:getActiveNetworkInfo', 'ConnectivityManager:getActiveNetworkInfo']
+	Method-2: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-3: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-4: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-5: ['HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'URL:openConnection', 'URL:openConnection', 'URLConnection:getInputStream']
+	Method-6: ['TelephonyManager:getDeviceId']
+	Method-7: ['File:exists']
+	Method-8: ['ConnectivityManager:getActiveNetworkInfo', 'ConnectivityManager:getActiveNetworkInfo']
+	Method-9: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-10: ['File:exists', 'File:mkdir', 'File:mkdir']
+	Method-11: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-12: ['HttpURLConnection:connect', 'URL:openConnection', 'URL:openConnection', 'URLConnection:getInputStream']
+	Method-13: ['HttpURLConnection:connect', 'URL:openConnection', 'URLConnection:getInputStream']
+	Method-14: ['PackageManager:getInstalledPackages']
+	Method-15: ['Intent:addFlags']
+	Method-16: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-17: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-18: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-19: ['Intent:addFlags', 'Intent:setDataAndType']
+	Method-20: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-21: ['ConnectivityManager:getActiveNetworkInfo']
+	Method-22: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-23: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-24: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-25: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-26: ['ConnectivityManager:getActiveNetworkInfo', 'ConnectivityManager:getActiveNetworkInfo']
+	Method-27: ['Intent:addFlags', 'Intent:setDataAndType']
+	Method-28: ['URL:openConnection', 'URLConnection:getInputStream']
+######################
+##	HippoSMS 	##
+######################
+	Method-0: ['SmsManager:sendTextMessage']
+######################
+##	jSMSHider 	##
+######################
+	Method-0: ['HttpURLConnection:connect', 'HttpURLConnection:connect', 'URL:openConnection', 'URLConnection:getInputStream']
+	Method-1: ['File:exists', 'File:exists']
+	Method-2: ['TelephonyManager:getCellLocation', 'TelephonyManager:getCellLocation']
+	Method-3: ['HttpURLConnection:connect', 'HttpURLConnection:connect', 'URL:openConnection', 'URLConnection:getInputStream']
+	Method-4: ['URL:openConnection', 'URL:openConnection', 'URLConnection:getInputStream']
+	Method-5: ['ContentResolver:query']
+	Method-6: ['ConnectivityManager:getActiveNetworkInfo']
+	Method-7: ['TelephonyManager:getCellLocation', 'TelephonyManager:getCellLocation']
+	Method-8: ['URL:openConnection', 'URLConnection:getInputStream']
+	Method-9: ['Intent:setFlags']
+	Method-10: ['HttpURLConnection:connect', 'URL:openConnection', 'URLConnection:getInputStream']
+	Method-11: ['TelephonyManager:getLine1Number', 'TelephonyManager:getLine1Number', 'TelephonyManager:getLine1Number']
+	Method-12: ['PackageManager:getInstalledPackages']
+	Method-13: ['HttpURLConnection:connect', 'URL:openConnection', 'URLConnection:getInputStream']
+	Method-14: ['TelephonyManager:getCellLocation', 'TelephonyManager:getNetworkOperator', 'TelephonyManager:getNetworkOperator']
+	Method-15: ['ConnectivityManager:getActiveNetworkInfo']
+	Method-16: ['TelephonyManager:getDeviceId', 'TelephonyManager:getLine1Number', 'TelephonyManager:getSubscriberId']
+	Method-17: ['ConnectivityManager:getActiveNetworkInfo']
+	Method-18: ['HttpURLConnection:connect', 'URL:openConnection', 'URL:openConnection', 'URLConnection:getInputStream']
+######################
+##	Tapsnake 	##
+######################
+	Method-0: ['LocationManager:requestLocationUpdate', 'LocationManager:requestLocationUpdate']
+######################
+##	ADRD 	##
+######################
+	Method-0: ['File:exists', 'File:mkdir']
+	Method-1: ['File:exists']
+	Method-2: ['ContentResolver:query']
+######################
+##	FakePlayer 	##
+######################
+	Method-0: ['SmsManager:sendTextMessage', 'SmsManager:sendTextMessage', 'SmsManager:sendTextMessage', 'SmsManager:sendTextMessage']
+######################
+##	GoldDream 	##
+######################
+	Method-0: ['File:exists']
+######################
+##	BeanBot 	##
+######################
+	Method-0: ['URL:openConnection', 'URL:openConnection']
+	Method-1: ['ContentResolver:query']
+	Method-2: ['URLConnection:getInputStream']
+	Method-3: ['Intent:setFlags']
+	Method-4: ['ContentResolver:query', 'ContentResolver:query']
+	Method-5: ['Intent:setFlags', 'Intent:setFlags']
+	Method-6: ['TelephonyManager:getSubscriberId']
+	Method-7: ['Intent:setFlags']
+	Method-8: ['ContentResolver:query']
+	Method-9: ['ContentResolver:delete', 'SmsManager:sendTextMessage']
+	Method-10: ['SmsManager:sendTextMessage']
+	Method-11: ['SmsManager:sendTextMessage']
+	Method-12: ['HttpURLConnection:connect']
+######################
+##	NickySpy 	##
+######################
+	Method-0: ['TelephonyManager:getCellLocation']
+	Method-1: ['File:delete']
+	Method-2: ['Process:killProcess', 'Process:myPid']
+	Method-3: ['ContentResolver:query', 'File:delete']
+	Method-4: ['ContentResolver:query', 'ContentResolver:query']
+	Method-5: ['File:exists', 'File:mkdir']
+	Method-6: ['LocationManager:getLastKnownLocation', 'LocationManager:requestLocationUpdate', 'TelephonyManager:getCellLocation']
+######################
+##	Geinimi 	##
+######################
+	Method-0: ['LocationManager:requestLocationUpdate']
+	Method-1: ['LocationManager:requestLocationUpdate']
+	Method-2: ['HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'HttpURLConnection:connect', 'URL:openConnection']
+	Method-3: ['ContentResolver:insert']
+	Method-4: ['Intent:setFlags']
+	Method-5: ['LocationManager:getLastKnownLocation']
+	Method-6: ['Intent:addFlags']
+	Method-7: ['File:delete', 'File:exists', 'File:exists', 'File:mkdir', 'File:mkdir']
+	Method-8: ['ContentResolver:delete']
+	Method-9: ['ContentResolver:insert', 'ContentResolver:insert']
+######################
+##	RogueSPPush 	##
+######################
+	Method-0: ['ContentResolver:query']
+	Method-1: ['ContentResolver:query']
+	Method-2: ['SmsManager:sendTextMessage', 'SmsManager:sendTextMessage']
+	Method-3: ['File:delete', 'File:exists', 'URL:openConnection', 'URLConnection:getInputStream']
+	Method-4: ['ContentResolver:query']
+	Method-5: ['TelephonyManager:getSimSerialNumber']
+	Method-6: ['TelephonyManager:getDeviceId']
+	Method-7: ['TelephonyManager:getDeviceId']
+	Method-8: ['URL:openConnection', 'URL:openConnection', 'URLConnection:getInputStream']
+	Method-9: ['Intent:addFlags', 'Intent:setDataAndType']
+	Method-10: ['ContentResolver:query', 'ContentResolver:query']
+	Method-11: ['ConnectivityManager:getActiveNetworkInfo']
+	Method-12: ['ConnectivityManager:getActiveNetworkInfo']
+	Method-13: ['ContentResolver:query']
+	Method-14: ['ContentResolver:delete']
+	Method-15: ['TelephonyManager:getDeviceId']
+	Method-16: ['ContentResolver:query']
+	Method-17: ['URL:openConnection', 'URL:openConnection', 'URLConnection:getInputStream']
+	Method-18: ['URL:openConnection']
+######################
+##	DroidDream 	##
+######################
+	Method-0: ['Context:getFilesDir']
+	Method-1: ['Context:getFilesDir', 'File:exists', 'File:exists', 'File:exists']
+	Method-2: ['Context:getFilesDir', 'File:exists']
+	Method-3: ['File:exists']
+	Method-4: ['Context:getFilesDir', 'File:exists']
+	Method-5: ['Context:getFilesDir', 'File:delete', 'File:exists']
+	Method-6: ['Context:getFilesDir']
